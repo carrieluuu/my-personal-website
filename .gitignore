@@ -1,1 +1,5 @@
+# Project dependencies
+.vendor
+
+# Build directory
 /.DS_Store
